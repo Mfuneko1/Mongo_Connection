@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.810.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbDemo", "MongoDbDemo\MongoDbDemo.csproj", "{CAE3460B-0646-42AC-BE1D-C54C1B52A962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDataAccess", "MongoDataAccess\MongoDataAccess.csproj", "{4D636007-0602-4770-872A-2B96E2ABD492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34CD272F-F78E-4B17-91E5-C1CBECAD10C0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{CAE3460B-0646-42AC-BE1D-C54C1B52A962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE3460B-0646-42AC-BE1D-C54C1B52A962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE3460B-0646-42AC-BE1D-C54C1B52A962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D636007-0602-4770-872A-2B96E2ABD492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D636007-0602-4770-872A-2B96E2ABD492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D636007-0602-4770-872A-2B96E2ABD492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D636007-0602-4770-872A-2B96E2ABD492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
